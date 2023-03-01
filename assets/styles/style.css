@@ -15,7 +15,6 @@ body {
     background-color:#0A22F4;
     padding: 60px;
     position:static;
-    margin-left: 900px;
 }
 
 .projects {
@@ -91,7 +90,7 @@ body {
     max-width: 300px;
     height: 220px;
     margin-top: -5px;
-    margin-left: 920px;
+    margin-left: 1220px;
     border-radius: 2%;
     position: absolute;
 }
