@@ -1,4 +1,4 @@
-/* lasha gorakudashvili(footer) */
+
 @font-face {
     font-family: "HelveticaNeue-Bold-ttf";
     src: url("assets/fonts/HelveticaNeue-Bold.ttf");
@@ -12,7 +12,7 @@ body {
     padding: 0;
 }
 body{
-    margin-top: 500px;
+    padding-top: 500px;
 }
 
 .footer {
