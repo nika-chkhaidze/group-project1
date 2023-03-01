@@ -1,3 +1,4 @@
+    /* lasha gorakudashvili(footer) */
 @font-face {
     font-family: "HelveticaNeue-Bold-ttf";
     src: url("assets/fonts/HelveticaNeue-Bold.ttf");
@@ -14,6 +15,7 @@ body {
     background-color:#0A22F4;
     padding: 60px;
     position:static;
+    margin-left: 900px;
 }
 
 .projects {
@@ -173,7 +175,11 @@ body {
 .wrapper {
     overflow: hidden;
 }    
+    /* lasha gorakudashvili(footer) */
 
+ 
+ 
+    /* header */
 * {
     margin: 0;
     box-sizing: border-box;
@@ -271,6 +277,4 @@ ul {
 nav div {
     display: inline-block;
 }
-
-
-/* lasha gorakudashvili(footer) */
+    /* header */
