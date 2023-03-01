@@ -19,7 +19,7 @@ body {
 
 .projects {
     color: #FFFFFF;
-    margin-left: 70px;
+    margin-left: 450px;
     transform: translatey(-200%);
     font-family: Arial, Helvetica, sans-serif;
     display: inline-block;   
@@ -31,7 +31,7 @@ body {
     border-radius: 50%;
     background-color: white;
     margin-top: -80px;
-    margin-left: 870px;
+    margin-left: 1220px;
     position: absolute;
 }
 
@@ -41,7 +41,7 @@ body {
     border-radius: 50%;
     background-color: grey;
     margin-top: -80px;
-    margin-left: 885px;
+    margin-left: 1235px;
     position: absolute;
 }
 
@@ -51,9 +51,8 @@ body {
     border-radius: 50%;
     background-color: grey;
     margin-top: -80px;
-    margin-left: 900px;
+    margin-left: 1250px;
     position: absolute;
-    display: block;
 }
 
 .Rectangle-18 {
@@ -97,7 +96,7 @@ body {
 }
 
 .other-projects {
-    margin-left: 810px;
+    margin-left: 1160px;
     transform: translatey(1650%);
     position: absolute;
     font-size: 12px;
@@ -108,7 +107,7 @@ body {
 
 .vertical-line {
     border-left: 1.5px solid rgb(152, 150, 150);
-    margin-left: 800px;
+    margin-left: 1150px;
     margin-top: 260.5px;
     height: 13px;
     position: absolute;
@@ -117,7 +116,7 @@ body {
 .us {
     position: absolute;
     margin-top: 133px;
-    max-width: 225px;
+    max-width: 425px;
     margin-left: 75px;
     background-color:#FFFFFF;
     border-radius: 5px;
@@ -132,7 +131,7 @@ body {
     position: absolute;
     margin-top: 99px;
     max-width: 235px;
-    margin-left: 355px;
+    margin-left: 705px;
     background-color: #FFFFFF;
     border-radius: 5px;
     padding: 15px 15px 15px 15px;
@@ -146,7 +145,7 @@ body {
     position: absolute;
     margin-top: 132px;
     max-width: 225px;
-    margin-left: 645px;
+    margin-left: 995px;
     background-color: #FFFFFF;
     border-radius: 5px;
     padding: 15px 15px 15px 15px;
@@ -159,7 +158,7 @@ body {
 .build {
     margin-top: 132px;
     max-width: 225px;
-    margin-left: 802px;
+    margin-left: 1152px;
     background-color: #FFFFFF;
     border-radius: 5px;
     padding: 15px 15px 15px 15px;
