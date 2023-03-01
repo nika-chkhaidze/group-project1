@@ -1,0 +1,179 @@
+/* lasha gorakudashvili(footer) */
+@font-face {
+    font-family: "HelveticaNeue-Bold-ttf";
+    src: url("assets/fonts/HelveticaNeue-Bold.ttf");
+}
+
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    background-color:#0A22F4;
+    padding: 60px;
+    position:static;
+}
+
+.projects {
+    color: #FFFFFF;
+    margin-left: 70px;
+    transform: translatey(-200%);
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;   
+}
+
+.circle-1 {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: white;
+    margin-top: -80px;
+    margin-left: 870px;
+    position: absolute;
+}
+
+.circle-2 {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: grey;
+    margin-top: -80px;
+    margin-left: 885px;
+    position: absolute;
+}
+
+.circle-3 {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: grey;
+    margin-top: -80px;
+    margin-left: 900px;
+    position: absolute;
+}
+
+.Rectangle-18 {
+    width: 100%;
+    max-width: 270px;
+    height: 220px;
+    margin-top: -5px;
+    margin-left: 68px;
+    border-radius: 2%;
+    position: absolute;
+}
+
+.Rectangle-19 {
+    width: 100%;
+    max-width: 330px;
+    height: 265px;
+    margin-top: -55px;
+    margin-left: 323px;
+    border-radius: 2%;
+    position: absolute;
+}
+
+.Rectangle-20 {
+    width: 100%;
+    max-width: 270px;
+    max-height: 220px;
+    margin-top: -5px;
+    margin-left: 638px;
+    border-radius: 2%;
+    position: absolute;
+}
+
+.Rectangle-21 {
+    width: 100%;
+    max-width: 300px;
+    height: 220px;
+    margin-top: -5px;
+    margin-left: 920px;
+    border-radius: 2%;
+    position: absolute;
+}
+
+.other-projects {
+    margin-left: 810px;
+    transform: translatey(1650%);
+    position: absolute;
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.vertical-line {
+    border-left: 1.5px solid rgb(152, 150, 150);
+    margin-left: 800px;
+    margin-top: 260.5px;
+    height: 13px;
+    position: absolute;
+}
+
+.us {
+    position: absolute;
+    margin-top: 133px;
+    max-width: 225px;
+    margin-left: 75px;
+    background-color:#FFFFFF;
+    border-radius: 5px;
+    padding: 15px 15px 15px 15px;
+    font-size: 12px;
+    opacity: 0.8;
+    text-align:left;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.on-going {
+    position: absolute;
+    margin-top: 99px;
+    max-width: 235px;
+    margin-left: 355px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    padding: 15px 15px 15px 15px;
+    font-size: 12px;
+    opacity: 0.8;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.which {
+    position: absolute;
+    margin-top: 132px;
+    max-width: 225px;
+    margin-left: 645px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    padding: 15px 15px 15px 15px;
+    font-size: 12px;
+    opacity: 0.8;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.build {
+    margin-top: 132px;
+    max-width: 225px;
+    margin-left: 802px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    padding: 15px 15px 15px 15px;
+    font-size: 12px;
+    opacity: 0.8;
+    text-align: left;
+    position: absolute;
+    display: inline-block;
+    transform: translateX(50%);
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.wrapper {
+    overflow: hidden;
+}    
+
+/* lasha gorakudashvili(footer) */
