@@ -1,4 +1,4 @@
-     /* lasha gorakudashvili(footer) */
+        /* lasha gorakudashvili(footer) */
 @font-face {
     font-family: "HelveticaNeue-Bold-ttf";
     src: url("assets/fonts/HelveticaNeue-Bold.ttf");
@@ -14,13 +14,14 @@ body {
 
 .footer {
     background-color: #0A22F4;
-    padding: 110px;
+    padding: 100px;
+    padding-bottom: 80px;
     position: static;
 }
 
 .projects {
     color: #FFFFFF;
-    margin-left: 120px;
+    margin-left: 85px;
     transform: translatey(-200%);
     font-family: Arial, Helvetica, sans-serif;
     display: inline-block;
@@ -32,7 +33,7 @@ body {
     border-radius: 50%;
     background-color: white;
     margin-top: -80px;
-    margin-left: 1185px;
+    margin-left: 1145px;
     position: absolute;
 }
 
@@ -42,7 +43,7 @@ body {
     border-radius: 50%;
     background-color: grey;
     margin-top: -80px;
-    margin-left: 1205px;
+    margin-left: 1165px;
     position: absolute;
 }
 
@@ -52,7 +53,7 @@ body {
     border-radius: 50%;
     background-color: grey;
     margin-top: -80px;
-    margin-left: 1225px;
+    margin-left: 1185px;
     position: absolute;
 }
 
@@ -97,7 +98,7 @@ body {
 }
 
 .other-projects {
-    margin-left: 1123px;
+    margin-left: 1083px;
     transform: translatey(1660%);
     position: absolute;
     font-size: 15px;
@@ -108,7 +109,7 @@ body {
 
 .vertical-line {
     border-left: 2px solid rgb(152, 150, 150);
-    margin-left: 1112px;
+    margin-left: 1072px;
     margin-top: 324px;
     height: 14px;
     position: absolute;
@@ -171,6 +172,11 @@ body {
     transform: translateX(50%);
     font-family: Arial, Helvetica, sans-serif
 }
+
+.wrapper {
+    margin-left: -40px;
+}
+
         /* lasha gorakudashvili(footer) */
 
  
