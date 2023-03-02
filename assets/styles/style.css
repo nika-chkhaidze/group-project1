@@ -176,12 +176,9 @@ body {
 .wrapper {
     margin-left: -40px;
 }
-
         /* lasha gorakudashvili(footer) */
 
- 
- 
-    /* header */
+        /* header */
 * {
     margin: 0;
     box-sizing: border-box;
@@ -279,9 +276,9 @@ ul {
 nav div {
     display: inline-block;
 }
-    /* header */
+        /* header */
 
-/* saba kareli */
+        /* saba kareli */
 
 .styles {
     position: relative;
@@ -338,4 +335,4 @@ nav div {
     color: #171717;
 }
 
-
+        /* saba kareli */
