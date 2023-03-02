@@ -274,3 +274,62 @@ nav div {
     display: inline-block;
 }
     /* header */
+
+/* saba kareli */
+
+.styles {
+    position: relative;
+    
+}
+
+.styles img {
+    width: 707px;
+    
+}
+
+.styles h2 {
+    margin-top: 180px;
+    margin-left: 240px;
+}
+
+.styles p {
+    display: inline-block;
+}
+
+.styles p {
+    max-width: 463px;
+    height: 385px;
+    margin-left: 240px;
+    margin-top: 180px;
+    
+}
+
+.section2 {
+    position: relative;
+}
+
+.section2 img {
+    max-width: 707px;
+    margin-left: 250px;
+    margin-top: -450px;
+    margin-bottom: 100px;
+}
+
+.section2 h2 {
+    margin-top: 180px;
+    margin-left: 900px;
+}
+
+.section2 p {
+    display: inline-block;
+}
+
+.section2 p {
+    max-width: 463px;
+    height: 385px;
+    margin-left: 900px;
+    margin-top: 100px;
+    color: #171717;
+}
+
+
